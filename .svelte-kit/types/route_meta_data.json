@@ -1,5 +1,13 @@
 {
-	"/": [],
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/api/images": [
+		"src/routes/api/images/+server.ts"
+	],
+	"/api/images/[id]": [
+		"src/routes/api/images/[id]/+server.ts"
+	],
 	"/images/[id]": [
 		"src/routes/images/[id]/+page.server.ts"
 	],
