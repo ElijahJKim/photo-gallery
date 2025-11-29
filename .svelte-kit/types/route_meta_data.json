@@ -1,0 +1,7 @@
+{
+	"/": [],
+	"/images/[id]": [
+		"src/routes/images/[id]/+page.server.ts"
+	],
+	"/upload": []
+}
